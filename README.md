@@ -1,0 +1,2 @@
+# ClipBoard
+ área de tranferência
